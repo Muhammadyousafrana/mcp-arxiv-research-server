@@ -1,3 +1,4 @@
+[![Deploy to GitHub Pages](https://github.com/Muhammadyousafrana/mcp-arxiv-research-server/actions/workflows/main.yml/badge.svg)](https://github.com/Muhammadyousafrana/mcp-arxiv-research-server/actions/workflows/main.yml)
 # mcp-arxiv-research-server
 
 A custom MCP (Model Context Protocol) server that searches arXiv, stores research papers by topic, and exposes tools and resources for structured academic discovery and analysis.
